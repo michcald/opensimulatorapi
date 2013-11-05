@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/open-simulator-api/api/Command
+END
+Users.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/62/trunk/open-simulator-api/api/Command/Users.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/open-simulator-api/api/Command/Auth.php
+END
+Prims.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/54/trunk/open-simulator-api/api/Command/Prims.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/open-simulator-api/api/Command/bootstrap.php
+END
+Regions.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52/trunk/open-simulator-api/api/Command/Regions.php
+END
+System.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/63/trunk/open-simulator-api/api/Command/System.php
+END
+SystemStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/63/trunk/open-simulator-api/api/Command/SystemStatus.php
+END

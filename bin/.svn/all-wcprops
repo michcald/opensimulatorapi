@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/61/trunk/open-simulator-api/bin
+END
+opensim_start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/61/trunk/open-simulator-api/bin/opensim_start.bat
+END
+opensim_status.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/61/trunk/open-simulator-api/bin/opensim_status.bat
+END
+opensim_stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/61/trunk/open-simulator-api/bin/opensim_stop.bat
+END
+opensim_reboot.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/61/trunk/open-simulator-api/bin/opensim_reboot.bat
+END

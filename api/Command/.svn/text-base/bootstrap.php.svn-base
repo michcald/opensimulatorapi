@@ -1,0 +1,9 @@
+<?php
+
+$adapter = 'mysql';
+$host = 'myhost';
+$user = 'myusername';
+$password = 'mypassword';
+$dbname = 'dbname';
+
+Lib_Registry::set('db', new Lib_Db($adapter, $host, $user, $password, $dbname));

@@ -1,4 +1,1 @@
-opensimulatorapi
-================
-
-REST API for Opensimulator
+# This is my README
